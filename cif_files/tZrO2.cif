@@ -1,0 +1,79 @@
+data_NIMS_MatNavi_4295281129_1_2
+
+#
+# COPYRIGHT NOTICE
+#
+# This CIF data is created using data from AtomWork, published 2010/06 by
+# National Institute for Materials Science (NIMS), Tsukuba, Japan. Copyright
+# 2010 by NIMS and  Materials Phases Data system (MPDS), Vitznau,
+# Switzerland. All Rghts Reserved.
+#
+# DISCLAIMER
+#
+# The values reported here are taken from the literature and other sources and
+# the author does not warrant their correctness nor accept any
+# responsibility for errors. Users are advised to consult the primarysources.
+#
+
+_chemical_formula_sum 'O2 Zr'
+_space_group_crystal_system tetragonal
+_symmetry_space_group_name_H-M 'P 42/n m c'
+_symmetry_Int_Tables_number 137
+
+loop_
+    _symmetry_equiv_pos_site_id
+    _symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x+1/2,-y+1/2,z
+3 -y+1/2,x,z+1/2
+4 y,-x+1/2,z+1/2
+5 -x,y+1/2,-z
+6 x+1/2,-y,-z
+7 y+1/2,x+1/2,-z+1/2
+8 -y,-x,-z+1/2
+9 -x,-y,-z
+10 x+1/2,y+1/2,-z
+11 y+1/2,-x,-z+1/2
+12 -y,x+1/2,-z+1/2
+13 x,-y+1/2,z
+14 -x+1/2,y,z
+15 -y+1/2,-x+1/2,z+1/2
+16 y,x,z+1/2
+
+_cell_length_a 3.578
+_cell_length_b 3.578
+_cell_length_c 5.19
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 66.4
+_cell_formula_units_Z 2
+
+loop_
+    _atom_site_label
+    _atom_site_fract_x
+    _atom_site_fract_y
+    _atom_site_fract_z
+    _atom_site_occupancy
+    _atom_site_symmetry_multiplicity
+    _atom_site_Wyckoff_symbol
+    _atom_site_U_iso_or_equiv
+    _atom_site_type_symbol
+O1 0.25 0.25 0.050 1.0 4 d ? O
+Zr1 0.75 0.25 0.25 1.0 2 b ? Zr
+
+_publ_section_title 'Formation of PbZrO~3~ by Transformation of Cubic ZrO~2~ Solid Solution'
+_journal_coden_ASTM JACTAW
+_journal_name_full 'J. Am. Ceram. Soc.'
+_journal_year 1995
+_journal_volume 78
+_journal_page_first 3163
+_journal_page_last 3164
+_journal_language English
+
+loop_
+    _publ_author_name
+'Aoyama T.'
+'Kurata N.'
+'Hirota K.'
+'Yamaguchi O.'
